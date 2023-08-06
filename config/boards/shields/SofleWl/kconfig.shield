@@ -1,0 +1,2 @@
+config SHIELD_SOLFEWL
+    def_bool $(shileds_list_contains, soflewl)
