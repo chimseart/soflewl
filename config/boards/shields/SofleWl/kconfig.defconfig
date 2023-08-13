@@ -1,6 +1,0 @@
-IF soflewl
-
-config ZMK_KEYBOARD_NAME
-    default "soflewl"
-
-endif
