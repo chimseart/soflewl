@@ -62,7 +62,7 @@
 
             bindings = <
 &kp F11   &kp F10           &kp F9             &kp F8          &kp F7          &kp F6                             &kp F6           &kp F7          &kp F8         &kp F9            &kp F10    &kp F11
-&kp F12   &kp EQUAL         &kp UP             &kp PAGE_UP     &kp HOME        &kp INS                            &kp INS          &kp HOME        &kp PG_UP      &kp MINUS         &kp EQUAL  &kp F12
+&kp F12   &kp EQUAL         &kp MINUS          &kp PAGE_UP     &kp HOME        &kp INS                            &kp INS          &kp HOME        &kp PG_UP      &kp MINUS         &kp EQUAL  &kp F12
 &kp SEMI  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp PAGE_DOWN   &kp END         &kp CARET                          &kp CARET        &kp END         &kp PAGE_DOWN  &kp LEFT_BRACKET  &kp RBKT   &kp SEMI
 &trans    &kp PIPE          &kp C_PREV         &kp SCROLLLOCK  &kp SCROLLLOCK  &kp PRINTSCREEN  &trans    &trans  &kp PRINTSCREEN  &kp SCROLLLOCK  &kp SEMI       &kp COLON         &kp PIPE   &trans
                             &trans             &trans          &trans          &trans           &trans    &trans  &trans           &trans          &trans         &trans
